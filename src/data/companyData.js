@@ -61,7 +61,7 @@ export const productCategories = [
     categoryNumber: "01",
     shortDesc: "Certified mechanical through-bolts, drop-in anchors, and high-load chemical injection mortar systems with full pull-out test datasheets.",
     fullDesc: "Shree Krishna Traders provides heavy-duty mechanical and chemical anchoring systems engineered for critical civil connections, seismic anchoring, structural steel column erection, and machinery foundation tie-downs. We supply authentic HILTI HVU2 capsules, fischer, and RAWLPLUG bonded chemical anchor cartridges alongside zinc-plated and stainless steel mechanical wedge anchors. All anchoring hardware is backed by comprehensive manufacturer technical datasheets (TDS) and embedment sizing guidance.",
-    image: "/images/products/anchoring-products.jpg",
+    image: "/images/products/Mechanical and chemical anchors Anchoring systems 2.jpeg",
     badge: "Heavy Structural",
     items: [
       "Mechanical Wedge & Through-Anchor Bolts (MS & SS)",
@@ -80,7 +80,7 @@ export const productCategories = [
     categoryNumber: "02",
     shortDesc: "Technical waterproofing membranes, crystalline slurries, non-shrink structural grouts, concrete repair mortars, and joint treatment solutions.",
     fullDesc: "Comprehensive building protection and structural remediation solutions formulated to defend concrete assets against hydrostatic water pressure, carbonation, and chemical degradation. We supply leading Sika and technical brand formulations covering basement raft waterproofing, elastomeric terrace roof coatings, hydrophilic joint waterstops, non-shrink high-strength grouts for machinery beds, and polymer-modified concrete repair mortars.",
-    image: "/images/products/construction-waterproofing.jpg",
+    image: "/images/products/Construction Chemicals 1.jpeg",
     badge: "Engineered Protection",
     items: [
       "Integral Liquid Waterproofing & Concrete Admixtures",
@@ -100,7 +100,7 @@ export const productCategories = [
     categoryNumber: "03",
     shortDesc: "Custom-fabricated foundation bolts, L-type and J-type anchor assemblies, tie-rods, and heavy structural hardware tailored to exact project BOQs.",
     fullDesc: "Shree Krishna Traders supplies precision-manufactured foundation bolts and heavy fabrication hardware built to exact engineering drawings and project specifications. Sourced in diverse configurations including 90° L-bend, J-hook, plate-welded, and sleeve assemblies with customizable diameters from M12 up to M72+. Available in structural grades (IS 2062 Grade A/E250, EN8, High-Tensile Grade 8.8/10.9, and SS 304/316) complete with matching heavy hex nuts, flat washers, and spring washers.",
-    image: "/images/products/foundation-fabrication.jpg",
+    image: "/images/products/Industrial fastener 1.jpeg",
     badge: "Custom Engineered",
     items: [
       "Custom L-Type Foundation Anchor Bolts (M12 to M72+)",
@@ -119,7 +119,7 @@ export const productCategories = [
     categoryNumber: "04",
     shortDesc: "High-tack butyl tapes, aluminium foil flashing tapes, neutral weatherproofing silicone, polyurethane sealants, and FIRSTSEAL thread seal tapes.",
     fullDesc: "Industrial-grade weatherproofing, joint sealing, and leak prevention tapes designed for pre-engineered metal buildings, HVAC ducts, architectural facades, and piping systems. Our inventory includes high-adhesion single- and double-sided butyl tapes for roof overlap sealing, pure aluminium foil flashing tapes, neutral-cure silicone sealants for expansion joints and glazing, heavy polyurethane joint sealants, and genuine FIRSTSEAL PTFE thread seal tapes for leakproof industrial plumbing.",
-    image: "/images/products/tapes-sealants.jpg",
+    image: "/images/products/Waterproofing Solutions 1.jpeg",
     badge: "All-Weather Sealing",
     items: [
       "Double-Sided & Single-Sided Butyl Sealing Tapes",
@@ -138,7 +138,7 @@ export const productCategories = [
     categoryNumber: "05",
     shortDesc: "Copper-coated solid MIG wires (AWS ER70S-6), shielded arc electrodes, gas cutting nozzles (ANM/PNM), flashback arrestors, and regulators.",
     fullDesc: "Certified welding consumables and thermal gas cutting apparatus supplying heavy fabrication workshops, pressure vessel fabricators, and ship repair yards. We maintain stock of AWS A5.18 ER70S-6 copper-coated solid MIG wires ensuring clean arc transfer, low spatter, and radiographic weld quality. In thermal cutting, we supply precision-machined oxygen-acetylene (ANM) and oxygen-LPG (PNM) nozzles, high-flow gas regulators, and safety flashback arrestors.",
-    image: "/images/products/welding-cutting.jpg",
+    image: "/images/products/Welding & Cutting 1.jpeg",
     badge: "Fabrication Ready",
     items: [
       "Copper-Coated Solid MIG Welding Wires (AWS A5.18 ER70S-6)",
@@ -157,7 +157,7 @@ export const productCategories = [
     categoryNumber: "06",
     shortDesc: "Heavy-duty rotary hammer drills, angle grinders, demolition breakers, impact drivers, drop-forged spanners, pipe wrenches, and precision torque tools.",
     fullDesc: "High-end industrial power tools and drop-forged workshop hand tools engineered for continuous site duty cycles, mechanical safety, and rigorous plant maintenance. From Bosch rotary hammer drills with SDS-Plus / SDS-Max chucks and heavy 4\" to 9\" angle grinders to drop-forged Chrome Vanadium spanner sets, heavy cast-steel pipe wrenches (up to 48\"), insulated pliers, and calibrated click-type torque wrenches, we supply verified tools that minimize operator fatigue and maximize site output.",
-    image: "/images/products/power-tools.jpg",
+    image: "/images/products/Power tools 1.jpeg",
     badge: "Continuous Duty",
     items: [
       "Heavy-Duty Rotary & Demolition Hammer Drills (SDS-Plus / SDS-Max)",
@@ -180,7 +180,7 @@ export const services = [
     tagline: "End-to-End Site Consumables & Fasteners",
     shortDesc: "Bulk procurement and scheduled batch dispatch of certified fasteners, structural consumables, and maintenance hardware.",
     fullDesc: "We eliminate procurement bottlenecks for EPC contractors and manufacturing units by acting as a single-window source for genuine fasteners, consumables, and hardware. We coordinate stock availability, lot test certifications, and staggered site dispatches across Odisha.",
-    image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80",
+    image: "/images/products/Industrial fastener 1.jpeg",
     features: [
       "Consolidated multi-category billing & scheduled site drops",
       "Original manufacturer test certificates (MTC) on request",
@@ -196,7 +196,7 @@ export const services = [
     tagline: "Technical Admixtures & Structural Compounds",
     shortDesc: "Supply of high-grade concrete admixtures, non-shrink grouts, repair mortars, and surface treatments.",
     fullDesc: "We provide technical grade construction chemicals suited for critical civil infrastructure. Our team assists clients with batch sizing, dosage guidance, compatibility checks, and prompt deliveries directly to batching plants and project sites.",
-    image: "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
+    image: "/images/products/Construction Chemicals 1.jpeg",
     features: [
       "Admixture batching support for RMC and on-site batching plants",
       "Micro-concrete and non-shrink grouts for machinery foundation bolting",
@@ -212,7 +212,7 @@ export const services = [
     tagline: "Comprehensive Moisture Protection Systems",
     shortDesc: "Complete material supply and application guidance for structural basements, terraces, water retention tanks, and joints.",
     fullDesc: "Water ingress causes severe structural deterioration. We supply integrated waterproofing systems including crystalline waterproofing, acrylic elastomeric terrace membranes, polymer cementitious coatings, and joint waterstops backed by verified technical application procedures.",
-    image: "https://images.unsplash.com/photo-1541888946425-d0fbb186156f?auto=format&fit=crop&w=800&q=80",
+    image: "/images/products/Waterproofing Solutions 1.jpeg",
     features: [
       "Comprehensive surface preparation guidance & moisture barrier systems",
       "Terrace, podium, basement raft, and retaining wall protection",
@@ -244,7 +244,7 @@ export const services = [
     tagline: "Precision Rebar Dowelling & Structural Anchoring",
     shortDesc: "Supply of pure epoxy/vinylester chemical anchors, threaded studs, dispensing tools, and pull-out verification support.",
     fullDesc: "Heavy industrial loads demand unyielding anchoring security. We supply pure epoxy injection mortars, mechanical through-bolts, and threaded anchor rods from fischer and RAWLPLUG. We also assist contractors with rebar dowelling hole drilling diameters, embedment depth calculations, and on-site dispensing guidance.",
-    image: "https://images.unsplash.com/photo-1504917599217-d4dc5ebe6122?auto=format&fit=crop&w=800&q=80",
+    image: "/images/products/Mechanical and chemical anchors Anchoring systems 2.jpeg",
     features: [
       "Pure epoxy chemical anchors approved for cracked & uncracked concrete",
       "Heavy machinery base-plate anchoring and crane rail fixing",
@@ -260,7 +260,7 @@ export const services = [
     tagline: "Dedicated Contractor & Site Fulfillment",
     shortDesc: "Dedicated material coordination, buffer stocks, and urgent site delivery for infrastructure and turnkey contracts.",
     fullDesc: "Managing multiple industrial vendors leads to site downtime and cost overruns. Shree Krishna Traders acts as an agile project supply coordinator for contractors operating across Odisha. We maintain buffer reserves for contracted bills of quantities (BOQ) and manage urgent dispatches directly to project sites.",
-    image: "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=800&q=80",
+    image: "/images/products/Project Material Supply 1.jpeg",
     features: [
       "Dedicated single point of contact for project purchase managers",
       "Milestone-based delivery schedules synchronized with site progress",
@@ -607,7 +607,7 @@ export const galleryItems = [
     id: 1,
     title: "Mechanical & Chemical Anchoring Systems - 01",
     category: "Anchoring Systems",
-    image: "/images/products/Mechanical and chemical anchors Anchoring systems 1.jpeg",
+    image: "/images/products/Industrial fastener 1.jpeg",
     caption: "Heavy-duty mechanical wedge anchors and chemical injection systems for concrete structural connections."
   },
   {

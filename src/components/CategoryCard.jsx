@@ -16,7 +16,7 @@ export default function CategoryCard({ category, onQuoteClick }) {
           loading="lazy"
           onError={(e) => {
             e.target.onerror = null;
-            e.target.src = '/images/products/anchoring-products.jpg';
+            e.target.src = '/images/products/Industrial fastener 1.jpeg';
           }}
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/30 via-transparent to-transparent pointer-events-none" />
