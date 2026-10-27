@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <rect width="240" height="70" fill="transparent"/>
+  <!-- Sika iconic red triangle & yellow text -->
+  <polygon points="30,12 8,56 52,56" fill="#E2001A"/>
+  <text x="21" y="47" font-family="'Arial Black', sans-serif" font-weight="900" font-size="16" fill="#FBBF24">SIKA</text>
+  <text x="66" y="47" font-family="'Arial Black', sans-serif" font-weight="900" font-size="34" fill="#E2001A" letter-spacing="1">Sika</text>
+</svg>

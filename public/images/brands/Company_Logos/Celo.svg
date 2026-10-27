@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <rect width="240" height="70" fill="transparent"/>
+  <circle cx="34" cy="35" r="22" fill="#E11D48"/>
+  <path d="M26 27h16v4h-11v5h9v4h-9v6h12v4h-17z" fill="#FFFFFF"/>
+  <text x="66" y="44" font-family="'Arial Black', sans-serif" font-weight="900" font-size="26" fill="#0F172A" letter-spacing="2">CELO</text>
+  <text x="68" y="55" font-family="sans-serif" font-weight="700" font-size="8" fill="#E11D48" letter-spacing="2.5">FIXINGS &amp; SCREWS</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <rect width="240" height="70" fill="transparent"/>
+  <!-- HP Landmark Self Drilling Screws -->
+  <rect x="8" y="14" width="46" height="42" rx="8" fill="#F45F02"/>
+  <text x="13" y="44" font-family="'Arial Black', sans-serif" font-weight="900" font-size="24" fill="#FFFFFF">HP</text>
+  <text x="64" y="38" font-family="'Arial Black', sans-serif" font-weight="900" font-size="20" fill="#1A1208" letter-spacing="1">LANDMARK</text>
+  <text x="65" y="52" font-family="sans-serif" font-weight="700" font-size="9" fill="#F45F02" letter-spacing="1.5">SELF DRILLING SCREWS</text>
+</svg>
