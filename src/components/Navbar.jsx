@@ -67,13 +67,14 @@ export default function Navbar({ onOpenQuote }) {
 
           {/* CTA + hamburger */}
           <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
-            <button onClick={onOpenQuote}
-              className="hidden lg:inline-flex cssbuttons-io btn-sm shrink-0">
-              <span>
-                Get Started
-                <LuArrowUpRight className="w-3.5 h-3.5 ml-1 stroke-[2.5]"/>
-              </span>
-            </button>
+            <div className="hidden lg:block">
+              <button onClick={onOpenQuote} className="cssbuttons-io btn-sm shrink-0">
+                <span>
+                  Get Started
+                  <LuArrowUpRight className="w-3.5 h-3.5 ml-1 stroke-[2.5]"/>
+                </span>
+              </button>
+            </div>
             <button onClick={() => setOpen(!open)} className="lg:hidden p-2 text-[#2D241C] shrink-0" aria-label="menu">
               {open ? <LuX className="w-5 h-5"/> : <LuMenu className="w-5 h-5"/>}
             </button>
